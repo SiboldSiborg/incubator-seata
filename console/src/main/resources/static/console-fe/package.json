@@ -82,7 +82,7 @@
     "axios": "^1.7.4",
     "browserify-sign": "^4.2.2",
     "decode-uri-component": "^0.4.1",
-    "elliptic": "^6.5.7",
+    "elliptic": "^6.6.1",
     "history": "^4.10.1",
     "jquery": "^3.7.1",
     "loader-utils": "^3.2.1",
